@@ -1,4 +1,4 @@
-
+//Function fibHelper
 function fibHelper(n) {
 	var value;
 	var div = document.createElement('div');
